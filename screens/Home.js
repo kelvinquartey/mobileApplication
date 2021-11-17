@@ -19,7 +19,7 @@ export default function Home({navigation}){
         </View>
         
             <Text style={{color: "grey",fontWeight: '500', fontSize: 20}}>
-                The World's <Text style={{color: "orange", fontSize: 25}}>Best Bikes</Text>
+                The World's <Text style={{color: "orange", fontSize: 25}}>Best Bikes!</Text>
             </Text>
             <Text style={{color: "black",paddingTop: 10, fontWeight: 'bold', fontSize: 20}}>Categories</Text>
             
